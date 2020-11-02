@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">Zero Hunger</h3>
+  <h3 align="center">Solarsystem</h3>
 
   <p align="center">
     This is a website about the solarsystem.
@@ -28,7 +28,7 @@
 
 ### About the program
 
-This is a  program made by the youtuber Nero Nesh  who made a webstite about zero hunger and how to solve it. In this sytem, you can buy items like bread, soap etc and then you get your bill.
+This is a  program made by the youtuber Nero Nesh  who made a webstite about the solarsystem.
 
 #### Technology Used
 This project uses:
@@ -64,13 +64,13 @@ Add the various things that you are working on.
 #### CONTRIBUTING
 
 
-For any concerns, please open an [issue{edit this}](https://github.com/muondu/zerohunger/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/muondu/zerohunger/pulls) or Join our discord group Link above. 
+For any concerns, please open an [issue{edit this}](https://github.com/muondu/solarsystem/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/muondu/zerohunger/pulls) or Join our discord group Link above. 
 
 
 <hr>
 
 ### License
-* see [LICENSE](https://github.com/muondu/zerohunger/LICENSE.md) file
+* see [LICENSE](https://github.com/muondu/solarsystem/LICENSE.md) file
 
 ### Versions
 * Version 1.0  DATE 13/10/2020
@@ -79,7 +79,7 @@ For any concerns, please open an [issue{edit this}](https://github.com/muondu/ze
 
 ### Contact Information
 
-If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/muond/zerohunger/issues) to report them or ask them in my/ours dicord channel. Link https://discord.gg/wusUkkw
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/muond/solarsystem/issues) to report them or ask them in my/ours dicord channel. Link https://discord.gg/wusUkkw
 
 <hr>
 
@@ -87,6 +87,6 @@ If you have found any bugs, or have any feedback or questions and or want to pos
 
 <br>
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/muondu/zerohungerb/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/muondu/solarsystem/master/LICENSE)
 
 [Discord Link](https://discord.gg/wusUkkw)
